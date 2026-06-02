@@ -1,0 +1,9 @@
+br/com/gestaopessoas2026/exceptions/RequisicaoInvalidaException.class
+br/com/gestaopessoas2026/services/PessoaService.class
+br/com/gestaopessoas2026/controller/PessoaController.class
+br/com/gestaopessoas2026/exceptions/AcessoNaoAutorizadoException.class
+br/com/gestaopessoas2026/controller/TesteExcecoesController.class
+br/com/gestaopessoas2026/exceptions/ExceptionResponse.class
+br/com/gestaopessoas2026/model/Pessoa.class
+br/com/gestaopessoas2026/GestaoPessoas2026Application.class
+br/com/gestaopessoas2026/handle/CustomExceptionHandler.class
